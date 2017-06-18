@@ -8,5 +8,7 @@ Dice game made using JavaScript using objects(Object Oriented Programming)
 - If player chooses to hold their turn, total is added to their score and it becomes next players turn  
 #### Author  
 Sadique Ali  
-##### Copyright and Licenses  
+##### Link to gh-pages  
+https://sadiquelijama34.github.io/Pig-Dice/
+###### Copyright and Licenses  
 && (c) Sadique Ali 2017  
